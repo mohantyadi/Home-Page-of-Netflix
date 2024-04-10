@@ -4,7 +4,6 @@ This project is a clone of the Netflix home page, created using HTML and CSS. It
 
 ## Preview
 
-![Netflix Home Page Clone](preview.png)
 
 ## Features
 
